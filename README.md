@@ -18,7 +18,7 @@ fusion project
 > git config --global user.name "Roman Zakharov"
 > git config --global user.email "zoberg@gmail.com"
 
-посмотреть свой конфиг:
+   посмотреть свой конфиг:
 > git config --global --list
 
 3. Модификация файлов:
